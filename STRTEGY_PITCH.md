@@ -86,3 +86,33 @@ Benefits
 - Frequent stakeholder feedback
 - Reduced project risk
 - Ability to adapt to changing requirements
+
+5. Safety-Critical Update
+New Requirement
+
+FitConnect must store emergency medical information and emergency contact details for participants.
+
+Additional Controls
+
+To support this safety-critical requirement, the team will introduce:
+
+Acceptance Testing
+Peer Review
+Test Driven Development (TDD)
+Stronger Definition of Done
+Acceptance Test Example
+
+Given a user has entered emergency contact details
+
+When the information is saved
+
+Then the details should be stored correctly and be retrievable without data loss
+
+Benefits
+
+These controls improve:
+
+Data accuracy
+Reliability
+User safety
+Compliance with project quality standards
