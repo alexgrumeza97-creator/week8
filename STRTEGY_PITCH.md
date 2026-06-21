@@ -64,19 +64,19 @@ Deliver MVP functionality incrementally and gather feedback throughout developme
 
 Delivery Schedule
 Weeks 1–2
-User Registration
-User Login
+- User Registration
+- User Login
 Weeks 3–4
-Event Creation
-Event Management
+- Event Creation
+- Event Management
 Weeks 5–6
-RSVP System
-Event Participation Features
+- RSVP System
+- Event Participation Features
 Weeks 7–8
-User Dashboard
-Notifications
+- User Dashboard
+- Notifications
 Benefits
-Early delivery of core functionality
-Frequent stakeholder feedback
-Reduced project risk
-Ability to adapt to changing requirements
+- Early delivery of core functionality
+- Frequent stakeholder feedback
+- Reduced project risk
+- Ability to adapt to changing requirements
