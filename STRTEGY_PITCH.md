@@ -4,12 +4,12 @@ Project:
 FitConnect MVP
 
 Team:
-Product Owner: Sarah
-Scrum Master: Ahmed
-Developers: Ali, Maria
+Product Owner: Alex
+Scrum Master: Florin
+Developers: Alex, Florin
 
 Project Duration:
 8 Weeks
 
 Project Type:
-Startup Fitness Meetup Platform
+Something
