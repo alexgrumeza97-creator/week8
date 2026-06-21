@@ -52,3 +52,31 @@ Continuous Integration
 Justification
 
 Combining Scrum and XP supports rapid MVP delivery while ensuring maintainable, reliable software. Scrum manages project workflow and stakeholder engagement, while XP improves development quality and reduces defects.
+
+4. Rapid Response Plan
+Sprint Length
+
+2 Weeks
+
+Sprint Goal
+
+Deliver MVP functionality incrementally and gather feedback throughout development.
+
+Delivery Schedule
+Weeks 1–2
+User Registration
+User Login
+Weeks 3–4
+Event Creation
+Event Management
+Weeks 5–6
+RSVP System
+Event Participation Features
+Weeks 7–8
+User Dashboard
+Notifications
+Benefits
+Early delivery of core functionality
+Frequent stakeholder feedback
+Reduced project risk
+Ability to adapt to changing requirements
