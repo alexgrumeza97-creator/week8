@@ -63,18 +63,24 @@ Sprint Goal
 Deliver MVP functionality incrementally and gather feedback throughout development.
 
 Delivery Schedule
+
 Weeks 1–2
 - User Registration
 - User Login
+  
 Weeks 3–4
 - Event Creation
 - Event Management
+  
 Weeks 5–6
 - RSVP System
 - Event Participation Features
+  
 Weeks 7–8
 - User Dashboard
 - Notifications
+
+  
 Benefits
 - Early delivery of core functionality
 - Frequent stakeholder feedback
