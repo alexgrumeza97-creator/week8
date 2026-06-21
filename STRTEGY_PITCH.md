@@ -12,7 +12,7 @@ Project Duration:
 8 Weeks
 
 Project Type:
-Something
+Startup Fitness Meetup Platform
 
 2. Capability Matrix
 Framework |	Planning	|Testing	|Risk Management
