@@ -15,12 +15,14 @@ Project Type:
 Something
 
 2. Capability Matrix
-Framework	Planning	Testing	Risk Management
-Scrum	Sprint Planning	Moderate	Good
-XP	Iterative Planning	Excellent	Excellent
-DSDM	Timeboxing	Good	Excellent
-FDD	Feature Planning	Moderate	Moderate
-Crystal	Adaptive	Moderate	Good
+Framework |	Planning	|Testing	|Risk Management
+Scrum	|Sprint |Planning	|Moderate	|Good
+XP	|Iterative |Planning	|Excellent	|Excellent
+DSDM	|Timeboxing	|Good	|Excellent
+FDD	|Feature |Planning	|Moderate	|Moderate
+Crystal	|Adaptive	|Moderate	|Good
+
+
 Analysis
 Scrum provides strong project management and team coordination.
 XP emphasizes software quality through testing and engineering practices.
